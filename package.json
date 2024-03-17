@@ -1,0 +1,17 @@
+{
+  "name": "textfile-generator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./generate-files.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Vasconcelos",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
